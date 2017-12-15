@@ -1,0 +1,6 @@
+3. Latest commit 2cc1982 4 hours ago - 4h temu
+4. 4 pliki
+5. Zawartośc pliku: 
+Test-Ruby
+To repozytorium zawiera zadania do wykonania z przedmiotu Tworzenie aplikacji bazodanowych
+6. 
